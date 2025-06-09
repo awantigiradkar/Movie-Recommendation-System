@@ -45,4 +45,4 @@ A simple yet powerful content-based movie recommender system built using Python,
    - Fetches top 5 similar movies based on cosine similarity score.
 
 4. **TMDb Poster Fetch**
-   -Uses TMDb API to fetch high-quality movie posters based on movie_id.
+   - Uses TMDb API to fetch high-quality movie posters based on movie_id.
